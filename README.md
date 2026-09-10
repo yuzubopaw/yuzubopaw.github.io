@@ -1,3 +1,3 @@
 # Toot-Toot Twenty
 
-Play: https://yuzubopaw.github.io/
+Play: https://yuzubopaw.github.io/toot-toot-twenty/
