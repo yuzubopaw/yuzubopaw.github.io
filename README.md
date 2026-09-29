@@ -1,3 +1,3 @@
-# Toot-Toot Twenty and Jump-Jump Bunny
+# Toot-Toot & Jump-Jump
 
-Play: https://yuzubopaw.github.io/toot-toot-twenty/
+Play: https://yuzubopaw.github.io/toot-toot-and-jump-jump/
