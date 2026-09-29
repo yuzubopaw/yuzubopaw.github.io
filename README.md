@@ -1,3 +1,3 @@
 # Toot-Toot & Jump-Jump
 
-Play: https://yuzubopaw.github.io/toot-toot-and-jump-jump/
+Play: https://yuzubopaw.github.io/yuzubomath/
